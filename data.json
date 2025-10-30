@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Corporate Gift Box",
+      "category": "Corporate",
+      "price": 300,
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "name": "Love Perfume",
+      "category": "Love Interest",
+      "price": 500,
+      "status": "Delivered"
+    }
+  ]
+}
